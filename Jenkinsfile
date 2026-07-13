@@ -22,7 +22,7 @@ pipeline {
                 cleanWs()
 
                 git branch: 'main',
-                    url: 'https://github.com/ManojBK18/Observability-end-to-end-Project.git'
+                    url: 'https://github.com/ManojBK18/Terraform-deployment-with-jenkins.git'
             }
         }
 
